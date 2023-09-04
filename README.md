@@ -12,7 +12,7 @@ Did as part of my Final Year Project, all code was written by me
 
   **Explicit Imagery Detection**
   - Used GCP Cloud vision to detect innappropriate imagery
-  - At time of submission, image detection was fully functional, video detection was to be implemented later due as vision ai didnt support video
+  - At time of submission, image detection was fully functional, video detection was to be implemented later as vision ai didnt support video but code is there
  
   **Uploading to cloud**
   -Uploading media to google cloud storage
